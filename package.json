@@ -1,0 +1,25 @@
+{
+  "name": "slackcurl",
+  "version": "1.0.0",
+  "description": "slash command for slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloseberhardt/slackcurl.git"
+  },
+  "author": "@carloseberhardt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carloseberhardt/slackcurl/issues"
+  },
+  "homepage": "https://github.com/carloseberhardt/slackcurl#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "minimist": "^1.1.2",
+    "request": "^2.60.0",
+    "spawn-args": "^0.1.0"
+  }
+}
